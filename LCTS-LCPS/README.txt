@@ -12,7 +12,7 @@
 /* Author: Bryland Schoneck                                                                 */
 /* November 3, 2019 *************************************************************************/
 
-Included in submit.tar:
+Included:
   makefile
   main.c
   main.h
