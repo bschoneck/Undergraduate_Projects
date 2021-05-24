@@ -2,7 +2,7 @@
   Replication of a study published in Nature
 
 # Contains:
-  Final-Report
+  Final-Report  
   Many different scripts and pipelines
 
 # Contributers:
